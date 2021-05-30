@@ -1,0 +1,53 @@
+a#brand{
+    color: #fcecdd;
+    font-family: 'Courgette', cursive;
+    font-weight: bolder;
+    font-size: 2rem;
+}
+#home{
+    color: #fcecdd;
+    font-family: 'Nova Flat', cursive;
+    font-size: 1.2rem;
+    padding-left: 80%;
+
+}
+#search{
+    color: #fcecdd;
+    font-family: 'Nova Flat', cursive;
+    font-size: 1.2rem;
+   
+
+
+}
+#titleBrand{
+   
+    font-family: 'Courgette', cursive;
+    font-weight: bolder;
+    font-size: 2rem;
+
+}
+body{
+    background-image: linear-gradient( 50deg, #4158D0,#C850C0,#FFCC70);
+    
+}
+.navbar {
+    background-image: linear-gradient( 50deg, #4158D0,#C850C0,#FFCC70);
+    /* border: 2px solid green; */
+  position: sticky;
+  top: 0;
+  /* width: 98.7vw; */
+  opacity: 0.9;
+  z-index: 2;
+  padding-left: 9.5%;
+}
+h3{
+    mix-blend-mode:luminosity;
+}
+#addDiv2{
+    margin:8% 0%;
+    
+
+}
+#bodyStart{
+    background-image: linear-gradient(40deg,#70e1f5,#ffd194);
+}
